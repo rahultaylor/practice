@@ -1,0 +1,2 @@
+# practice
+Scala Coding Practice 
